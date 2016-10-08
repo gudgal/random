@@ -37,8 +37,8 @@ We plan to use Junit. The NestedRunner in Junit will provide for integration tes
 
 ## 2 Test Cases
 
-Test case     | Purpose of the test case | Steps necessary to perform the test | Expected result | Actual Result | Pass/Fail
-------------- | -------------------------- -----------------------------------   ----------------  -------------  ---------- 
+|Test case | Purpose of the test case | Steps necessary to perform the test | Expected result | Actual Result | Pass/Fail |
+|------------- | -------------------------- | ----------------------------------- | |---------------- |------------- | ---------- |
 Add item to a list  | To ensure the system functions as it should, allows the user to add items to list | When within a list's page, tester clicks on add item |New item is displayed on the list
 Delete item from list  | To ensure the system functions as it should, allows the user to delete items from a list | From the list page, tester clicks on item, then clicks delete | The item should no longer appear on the list
 
